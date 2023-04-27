@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
   ## Description 
-  This is a simple python application which can be used to extract price information from eBay URLs.
+  This is a simple python application which can be used to extract product name and price information from eBay URLs.
   
   I've built this application to practice python basics such as:
 
