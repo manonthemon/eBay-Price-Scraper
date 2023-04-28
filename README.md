@@ -13,9 +13,9 @@
 ## Usage
 To use the application:
 
-1. Copy URL of an ebay product page.
-2. Paste it to as the value of the url variable in the code in IDLE.
-3. Run the program. 
+1. Launch the application
+2. Paste ebay product URL
+3. The program will return product name and current price
 
  ## Contributing
 I developed this app following the instructions from https://automatetheboringstuff.com python course.
